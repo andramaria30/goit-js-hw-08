@@ -6,7 +6,7 @@ import '../css/common.css';
 
 import '../css/01-gallery.css';
 
-import 'simplelightbox/dist/simple-lightbox.min.cs';
+import 'simplelightbox/dist/simple-lightbox.min.css';
 
 
 
